@@ -1,0 +1,23 @@
+.navbar {
+    height: 80px;
+}
+
+.container-fluid {
+    padding: 0;
+    margin: 0;
+    max-width: none;
+}
+
+.carousel-inner img {
+    height: 500px;
+    object-fit: cover;
+}
+
+.cards {
+    background-color: rgb(255, 255, 255);
+    height: 400px;
+}
+
+.cards:hover {
+    border: 2px solid rgb(43, 82, 28);
+}
