@@ -16,6 +16,8 @@
 .cards {
     background-color: rgb(255, 255, 255);
     height: 400px;
+    margin-left: 50px;
+    margin-top: 30px;
 }
 
 .cards:hover {

@@ -1,6 +1,6 @@
-<nav class="navbar navbar-expand-lg bg-body-primary d-flex justify-content-around">
+<nav class="navbar navbar-expand-lg bg-body-primary d-flex justify-content-around border border-bottom border-3">
       <a class="navbar-brand" href="#">
-        <img src="../assets/Baby panda.png" alt="logo" height="100">
+        <img src="./assets/Baby panda.png" alt="logo" height="100">
       </a>  
         <ul class="navbar-nav gap-5 fs-3">
           <li class="nav-item">
@@ -18,7 +18,7 @@
         <form action="search.php" method="GET" class="d-flex">
           <input type="text" name="query" placeholder="Search" class="form-control"  style="max-width: 150px;">
           <input type="submit" style="display: none;">
-          <input type="image" src="../assets/search logo.png" width="50px" alt="Cari" class="btn btn-outline-secondary ms-2">
+          <input type="image" src="./assets/search logo.png" width="50px" alt="Cari" class="btn btn-outline-secondary ms-2">
       </form>
       </div>
     </nav>
